@@ -12,6 +12,7 @@ public class EmployeeManager {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("1. Add Employee");
+        System.out.println("Employee Manager - Version 2");
         System.out.println("2. View All Employees");
         System.out.println("3. Search Employee");
         System.out.println("4. Update Salary");
